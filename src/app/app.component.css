@@ -1,0 +1,16 @@
+#head_title{
+    color:darkred;
+}
+
+#recent{
+    color:violet;
+}
+
+a{
+    text-decoration: none;
+}
+
+a.active{
+    color: red;
+    font-weight: bold;
+}
